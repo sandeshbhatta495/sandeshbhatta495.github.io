@@ -198,6 +198,13 @@ const certifications = [
         description: "Completed an in-depth course on 3D Printing, focusing on digital modeling, additive manufacturing principles, and practical 3D prototyping applications."
     },
     {
+        title: "Introduction and Application Generative AI",
+        organization: "IBM",
+        date: " 2025",
+        skills: ["Generative AI", "Application of GEN AI"],
+        description: "Acquired skills in GEN AI ,help all the parts related with this spefic domamains."
+    },
+    {
         title: "AI for Beginners",
         organization: "HP LIFE",
         date: "May 2025",
